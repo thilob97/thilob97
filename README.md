@@ -1,7 +1,10 @@
-## Hi there 👋
-
 ![header](header.jpg)
 
+## 🚀 About Me
+- 🧙 Data Engineer
+- 👷 Self-taught in **backend development** and **data engineering**
+- 🛠️ Passionate about **VR** and exploring cutting-edge technologies
+- Trained Mechatronics turned **Data Engineer**
 
 <!--
 **thilob97/thilob97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
