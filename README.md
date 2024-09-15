@@ -6,6 +6,22 @@
 - 🛠️ Passionate about **VR** and exploring cutting-edge technologies
 - 🤖 **Trained Mechatronics** turned 💾 **Data Engineer**
 
+### 📅 Timeline
+
+- 🚀 **2021 - Present**: Data Engineer at ECHT Gastro Partner
+- 🔨 **2020 - 2021**: Worked as a Mechatronics Technician at Deutsche Bahn
+- 👶🏼 **2017 - 2020**: Trained as a Mechatronics Technician at Deutsche Bahn
+
+### 🎯 Career Focus
+
+Building scalable backend systems, developing efficient data pipelines, and constantly learning the latest in cloud technologies.
+
+## 🌱 Ongoing Projects
+
+- 📱 **[Gastronomy App](https://echt-gastropartner.de/app/)**: Developing a comprehensive app for the gastronomy sector at ECHT Gastropartner.
+- 👓 **[Private VR Training App](https://slickcomm.de/)**: Creating a VR application to assist in the training and education of apprentices.
+- ⌨️ **Wireless 3x5+3 Split Mechanical Keyboard**: Planning to build a wireless version of the custom mechanical keyboard.
+
 ## 🛠 Technologies & Tools
 
 - **Languages**:  
@@ -25,15 +41,24 @@
   🐳 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
   ⚙️ ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-### 📅 Timeline
+## 🛸 More
 
-- 🚀 **2021 - Present**: Data Engineer at ECHT Gastro Partner
-- 🔨 **2020 - 2021**: Worked as a Mechatronics Technician at Deutsche Bahn
-- 👶🏼 **2017 - 2020**: Trained as a Mechatronics Technician at Deutsche Bahn
+### 🎨 Hobbies
 
-### 📚 Projects & Articles
-- **[Showcase Project as a Final Thesis](https://www.dbregio-berlin-brandenburg.de/db-regio-no/aktuelles/punkt3/Ein-Vorzeigeprojekt-als-Abschlussarbeit-6039272)**, **[Deutsche Bahn & Niryo Robot Arm](https://www.generationrobots.com/blog/de/deutsche-bahn-niryo-roboterarm/?srsltid=AfmBOoq1U_m-iJNpMhbZxMyBKZWpX2IBaOT51f5kbg_vJhmnRDa68UMx)**: Details about a standout project completed as part of the final thesis at DB Regio.
-  
+- **3D Printing**: Exploring various printing techniques and designs.
+- **Virtual Reality (VR)**: Engaging with immersive VR experiences and technologies.
+
+### 📚 Other Projects & Articles
+- ⌨️ Build a custom **3x5+3 split handwired mechanical keyboard**
+- 📎 **[Microsoft AI Lab Co-Innovation Labs](https://echt-gastropartner.de/blog/microsoft-ai-co-innovation-labs-echt-gastro-partner/)**: Participation in a workshop at the Microsoft AI Co-Innovation Lab, focusing on advancing technology in the gastronomy sector.
+- 🦾 **[Showcase Project as a Final Thesis](https://www.dbregio-berlin-brandenburg.de/db-regio-no/aktuelles/punkt3/Ein-Vorzeigeprojekt-als-Abschlussarbeit-6039272)**, **[Deutsche Bahn & Niryo Robot Arm](https://www.generationrobots.com/blog/de/deutsche-bahn-niryo-roboterarm/?srsltid=AfmBOoq1U_m-iJNpMhbZxMyBKZWpX2IBaOT51f5kbg_vJhmnRDa68UMx)**: Details about a standout project completed as part of the final thesis at DB Regio.
+- 🏠 **Home Automation**: Completely wired my house and made it smart using a **LOGO!** and a **Raspberry Pi**.
+
+## 📬 Contact
+
+- 📧 **Email**: [thilo.b@rth.pm](mailto:thilo.b@rth.pm)
+- 💬 **Discord**: [Thilo#1234](https://discord.com/users/394191560205402114) 
+
 <!--
 **thilob97/thilob97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
