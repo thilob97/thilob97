@@ -41,6 +41,10 @@ Building scalable backend systems, developing efficient data pipelines, and cons
   🐳 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
   ⚙️ ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
+- **3D Modeling & Game Development**:  
+  🎮 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)  
+  🔧 ![Fusion 360](https://img.shields.io/badge/-Fusion%20360-9C6D3F?style=flat-square&logo=fusion360&logoColor=white)
+
 ## 🛸 More
 
 ### 🎨 Hobbies
