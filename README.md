@@ -6,12 +6,6 @@
 - 🛠️ Passionate about **VR** and exploring cutting-edge technologies
 - 🤖 **Trained Mechatronics** turned 💾 **Data Engineer**
 
-### 📅 Timeline
-
-- 🚀 **2021 - Present**: Data Engineer at ECHT Gastro Partner
-- 🔨 **2020 - 2021**: Worked as a Mechatronics Technician at Deutsche Bahn
-- 👶🏼 **2017 - 2020**: Trained as a Mechatronics Technician at Deutsche Bahn
-
 ### 🎯 Career Focus
 
 Building scalable backend systems, developing efficient data pipelines, and constantly learning the latest in cloud technologies.
