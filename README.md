@@ -47,9 +47,11 @@
 - **3D Printing**: Exploring various printing techniques and designs.
 - **Virtual Reality (VR)**: Engaging with immersive VR experiences and technologies.
 
-### 📚 Other Projects & Articles
+### 📚 Other Projects & Contributions
+
 - ⌨️ Build a custom **3x5+3 split handwired mechanical keyboard**
 - 📎 **[Microsoft AI Lab Co-Innovation Labs](https://echt-gastropartner.de/blog/microsoft-ai-co-innovation-labs-echt-gastro-partner/)**: Participation in a workshop at the Microsoft AI Co-Innovation Lab, focusing on advancing technology in the gastronomy sector.
+- 📊 **[Echt Gastro Partner & Allgeier Azure Project](https://ms-f1-sites-03-ea.azurewebsites.net/en-hk/story/1559617001731842612-echtgastro-allgeier-azure-en)**, **[Dashboard Project with Azure Synapse](https://www.allgeier.ch/kunden/dashboard-von-echt-gastro-partner-auf-basis-von-azure-synapse-analytics/)**: Enhanced data analysis and reporting for Echt Gastro using **Azure Synapse Analytics** and **Power BI**.
 - 🦾 **[Showcase Project as a Final Thesis](https://www.dbregio-berlin-brandenburg.de/db-regio-no/aktuelles/punkt3/Ein-Vorzeigeprojekt-als-Abschlussarbeit-6039272)**, **[Deutsche Bahn & Niryo Robot Arm](https://www.generationrobots.com/blog/de/deutsche-bahn-niryo-roboterarm/?srsltid=AfmBOoq1U_m-iJNpMhbZxMyBKZWpX2IBaOT51f5kbg_vJhmnRDa68UMx)**: Details about a standout project completed as part of the final thesis at DB Regio.
 - 🏠 **Home Automation**: Completely wired my house and made it smart using a **LOGO!** and a **Raspberry Pi**.
 
