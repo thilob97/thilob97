@@ -1,14 +1,15 @@
 ![header](header.jpg)
 
 ## 🚀 About Me
+
 -  🇩🇪 27 years old German 🧙 Data Engineer
 - 👷 Self-taught in **backend development** and **data engineering**
 - 🛠️ Passionate about **VR** and exploring cutting-edge technologies
 - 🤖 **Trained Mechatronics** turned 💾 **Data Engineer**
 
-### 🎯 Career Focus
+### 🎯 Focus
 
-Building scalable backend systems, developing efficient data pipelines, and constantly learning the latest in cloud technologies.
+- Building scalable backend systems, developing efficient data pipelines, and constantly learning the latest in cloud technologies.
 
 ## 🌱 Ongoing Projects
 
