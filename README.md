@@ -39,6 +39,7 @@
 - **3D Modeling & Game Development**:  
   🎮 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)  
   🔧 ![Fusion 360](https://img.shields.io/badge/-Fusion%20360-9C6D3F?style=flat-square&logo=fusion360&logoColor=white)
+  🔧 ![Plasticity](https://img.shields.io/badge/-Plasticity%20360-9C6D3F?style=flat-square&logo=fusion360&logoColor=white)
 
 ## 🛸 More
 
