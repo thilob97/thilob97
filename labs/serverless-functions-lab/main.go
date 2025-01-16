@@ -7,5 +7,5 @@ func loadPluginHandler(w http.ResponseWriter, r *http.Request) {
 }
 
 func main() {
-	http.HandleFunc("/load-plugins", loadPluginHandler)
+	http.HandleFunc("/load-plugins", loadPluginHandler
 }
