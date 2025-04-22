@@ -7,7 +7,7 @@ I'm a 27-year-old 🧙 **Data Engineer** based in 🇩🇪 Germany. Originally t
 ## 🎯 What Drives Me
 
 - 🚀 Developing scalable backend solutions and efficient data workflows
-- 🤖 Deep-diving into **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and AI-driven systems
+- 🤖 Deep-diving into **Large Language Models (LLMs)** and AI-driven systems
 - 🛠️ Innovating with **Virtual Reality** and **3D Modeling**
 
 ## 🌟 Currently Crafting
@@ -19,16 +19,16 @@ I'm a 27-year-old 🧙 **Data Engineer** based in 🇩🇪 Germany. Originally t
 ## 🛠️ Tech Stack
 
 ### 📚 Programming Languages
-🐹 **Golang** | 🌐 **Node.js** | 💻 **C#** | 📊 **SQL** | 🐍 **Python** | 📜 **JavaScript**
+🐹 **Golang** | 🌐 **Node.js** | 💻 **C#** | 📊 **SQL** 
 
 ### ☁️ Cloud & Backend
 ☁️ **AWS** | ☁️ **Azure** | 🔥 **Firebase**
 
 ### 🚢 DevOps & Containers
-🐳 **Docker** | ⚙️ **GitHub Actions** | 🦊 **GitLab CI**
+🐳 **Docker** | ⚙️ **GitHub Actions** 
 
 ### 💻 IDE & Configuration
-✍️ **Neovim** ([🔗 My Config](https://github.com/thilob97/NeoVimConfig)) | 🎨 **Visual Studio Code**
+✍️ **Neovim**
 
 ### 🎨 Game Dev & 3D Tools
 🎮 **Unity** | 🔧 **Fusion 360** | 🖌️ **Substance Modeler** | 🎨 **Substance Painter** | 🖥️ **Plasticity**
