@@ -1,5 +1,11 @@
 ![header](header.jpg)
 
+# 👋 Hey, I'm Thilo!
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thilob97&show_icons=true&theme=vue)](https://github.com/thilob97) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thilob97&layout=compact&theme=vue)](https://github.com/thilob97)
+
+---
+
 ## 👋 Hey, I'm Thilo!
 
 I'm a 27-year-old 🧙 **Data Engineer** based in 🇩🇪 Germany. Originally trained as a 🤖 **Mechatronics Engineer**, now specializing in scalable backends, data pipelines, and exploring VR & AI.
@@ -18,24 +24,25 @@ I'm a 27-year-old 🧙 **Data Engineer** based in 🇩🇪 Germany. Originally t
 
 ## 🛠️ Tech Stack
 
-### 📚 Programming Languages
+### 📚 Programming Languages  
 🐹 **Golang** | 🌐 **Node.js** | 💻 **C#** | 📊 **SQL**
 
-### ☁️ Cloud & Backend
+### ☁️ Cloud & Backend  
 ☁️ **AWS** | ☁️ **Azure** | 🔥 **Firebase**
 
-### 🚢 DevOps & Containers
+### 🚢 DevOps & Containers  
 🐳 **Docker** | ⚙️ **GitHub Actions**
 
-### 💻 IDE & Configuration
+### 💻 IDE & Configuration  
 ✍️ **Neovim**
 
-### 🎨 Game Dev & 3D Tools
-🎮 **Unity** | 🖌️ **Substance Modeler** | 🎨 **Substance Painter** | 🖥️ **Plasticity**
+### 🎨 Game Dev & 3D Tools  
+🎮 **Unity** | 🔧 **Fusion 360** | 🖌️ **Substance Modeler** | 🎨 **Substance Painter** | 🖥️ **Plasticity**
 
 ## 🎨 Hobbies & Interests
 
 - 🖨️ **3D Printing**: Creating and experimenting with functional designs.
+  - **Printers:** Bambulab A1 & A1 Mini, Artillery Genius, Flsun Q5
 - 🥽 **Virtual Reality**: Pushing boundaries in immersive technologies.
 
 ## 📂 Featured Projects
