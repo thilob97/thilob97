@@ -1,8 +1,5 @@
 ![header](header.jpg)
 
-# 👋 Hey, I'm Thilo!
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thilob97&show_icons=true&theme=vue)](https://github.com/thilob97) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thilob97&layout=compact&theme=vue)](https://github.com/thilob97)
 
 ---
 
@@ -59,3 +56,7 @@ I'm a 27-year-old 🧙 **Data Engineer** based in 🇩🇪 Germany. Originally t
 - ✉️ [thilo.b@rth.pm](mailto:thilo.b@rth.pm)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/thilo-barth-b8b450201/)
 - 🐦 [X](https://x.com/theEl_ric)
+
+---
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thilob97&show_icons=true&theme=vue)](https://github.com/thilob97) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thilob97&layout=compact&theme=vue)](https://github.com/thilob97)
