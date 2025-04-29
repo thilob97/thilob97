@@ -48,7 +48,7 @@ I'm a 27-year-old 🧙 **Data Engineer** based in 🇩🇪 Germany. Originally t
 - 📎 [**Microsoft AI Co-Innovation Labs**](https://echt-gastropartner.de/blog/microsoft-ai-co-innovation-labs-echt-gastro-partner/): Innovation partnership enhancing gastronomy tech.
 - 📈 [**Echt Gastro & Allgeier Azure Project**](https://www.microsoft.com/de-de/customers/story/1559617001731842612-echtgastro-allgeier-azure-en) & [**Azure Synapse Dashboard**](https://www.allgeier.ch/kunden/dashboard-von-echt-gastro-partner-auf-basis-von-azure-synapse-analytics/): Advanced analytics with Azure Synapse & Power BI.
 - 🤖 [**DB Regio Showcase Project**](https://www.dbregio-berlin-brandenburg.de/db-regio-no/aktuelles/punkt3/Ein-Vorzeigeprojekt-als-Abschlussarbeit-6039272) & [**Niryo Robot Arm**](https://www.generationrobots.com/blog/de/deutsche-bahn-niryo-roboterarm/?srsltid=AfmBOoq1U_m-iJNpMhbZxMyBKZWpX2IBaOT51f5kbg_vJhmnRDa68UMx): Mechatronics innovation for Deutsche Bahn.
-- 🧠 [**CAD-CHATt**](https://cad-ch.at) (completed): AI-powered tool to generate CAD drawings from text descriptions.  
+- 🧠 [**CAD-CHAT**](https://cad-ch.at) (completed): AI-powered tool to generate CAD drawings from text descriptions.  
   - [Backend](https://github.com/SlickComm/AI-Architect_Backend) | [Frontend](https://github.com/SlickComm/AI-Architect_Frontend)
 - 🏡 **Smart Home Automation**: Custom automation using LOGO! and Raspberry Pi.
 
