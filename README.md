@@ -21,7 +21,7 @@ I'm a 27-year-old 🧙 **Data Engineer** based in 🇩🇪 Germany. Originally t
 ## 🛠️ Tech Stack
 
 ### 📚 Programming Languages  
-🐹 **Golang** | 🌐 **Node.js** | 💻 **C#** | 📊 **SQL**
+🐹 **Golang** | 🌐 **Node.js** | 💻 **C#** | 🐍 **Python** | 📊 **SQL**
 
 ### ☁️ Cloud & Backend  
 ☁️ **AWS** | ☁️ **Azure** | 🔥 **Firebase**
