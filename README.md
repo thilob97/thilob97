@@ -14,9 +14,7 @@ I'm a 27-year-old 🧙 **Data Engineer** based in 🇩🇪 Germany. Originally t
 
 ## 🌟 Currently Working On
 
-- 📱 [**Gastronomy App**](https://echt-gastropartner.de/app/): Revolutionizing the gastronomy industry at ECHT Gastropartner.
 - 👓 [**Private VR Training App**](https://slickcomm.de/): Transforming vocational training with immersive VR.
-- ⌨️ **Wireless 3x5+3 Split Mechanical Keyboard**: Fully customized ergonomic wireless keyboard.
 
 ## 🛠️ Tech Stack
 
@@ -51,6 +49,8 @@ I'm a 27-year-old 🧙 **Data Engineer** based in 🇩🇪 Germany. Originally t
 - 🧠 [**CAD-CHAT**](https://cad-ch.at): AI-powered tool to generate CAD drawings from text descriptions.  
   - [Backend](https://github.com/SlickComm/AI-Architect_Backend) | [Frontend](https://github.com/SlickComm/AI-Architect_Frontend)
 - 🏡 **Smart Home Automation**: Custom automation using LOGO! and Raspberry Pi.
+- 📱 [**Gastronomy App**](https://echt-gastropartner.de/app/): Revolutionizing the gastronomy industry at ECHT Gastropartner.
+- ⌨️ **Wireless 3x5+3 Split Mechanical Keyboard**: Fully customized ergonomic wireless keyboard.
 
 ## 📬 Contact
 
