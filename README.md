@@ -4,7 +4,7 @@
 
 ## 👋 Hey, I'm Thilo!
 
-I'm a 27-year-old 🧙 **Data Engineer** based in 🇩🇪 Germany. Originally trained as a 🤖 **Mechatronics Engineer**, now specializing in scalable backends, data pipelines, and exploring VR & AI.
+I'm a 28-year-old 🧙 **Data Engineer** based in 🇩🇪 Germany. Originally trained as a 🤖 **Mechatronics Engineer**, now specializing in scalable backends, data pipelines, and exploring VR & AI.
 
 ## 🎯 What Drives Me
 
